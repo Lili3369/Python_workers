@@ -1,3 +1,3 @@
 # Python_workers
-Personal display of Python homework at Xinjiang Agricultural University新农大python作业展示
-新疆农业大学Python个人作业展示
+python作业展示
+Python个人作业展示，方便同学们学习😎
